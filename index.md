@@ -4,7 +4,7 @@ Data scientist
 
 More content coming eventually. :wink:
 
-### Index
+### Posts
 
 <ul>
   {% for post in site.posts %}
